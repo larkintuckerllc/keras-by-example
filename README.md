@@ -1,2 +1,2 @@
-# My JupyterLab Project
+# Keras by Example
 
