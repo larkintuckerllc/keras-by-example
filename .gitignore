@@ -1,2 +1,4 @@
 .environment/
 .ipynb_checkpoints/
+data/review.json
+data/word2vec.model*
